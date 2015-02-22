@@ -90,7 +90,7 @@
 // @description   Automatic redirect for linuxtoday.com articles to full stories
 
 // @namespace     http://userscript.org/
-// @include		  http://www.linuxtoday.com/developer/*
+// @include       http://www.linuxtoday.com/developer/*
 // @include  	  http://www.linuxtoday.com/developer/2*
 // @include  	  http://www.linuxtoday.com/high_performance/*
 // @include  	  http://www.linuxtoday.com/high_performance/2*
@@ -104,6 +104,7 @@
 // @include	  http://www.linuxtoday.com/storage/2*
 // @include	  http://www.linuxtoday.com/news_story.php3*
 // @include   http://www.linuxtoday.com/upload/*
+// @grant       none
 // ==/UserScript==
 
 
