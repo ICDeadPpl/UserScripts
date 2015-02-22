@@ -72,6 +72,7 @@
 // @include     http://www.richarddawkins.net/news_articles/*
 // @include     http://rdfrs.com/news_articles/*
 // @version     1
+// @grant       none
 // ==/UserScript==
 
 (function() {
