@@ -71,7 +71,7 @@
 // @description Automatic redirect for richarddawkins.net articles to full stories
 // @include     http://www.richarddawkins.net/news_articles/*
 // @include     http://rdfrs.com/news_articles/*
-// @version     1
+// @version     1.1
 // @grant       none
 // ==/UserScript==
 
