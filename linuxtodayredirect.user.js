@@ -105,6 +105,7 @@
 // @include	  http://www.linuxtoday.com/news_story.php3*
 // @include   http://www.linuxtoday.com/upload/*
 // @grant       none
+// @version     1.1
 // ==/UserScript==
 
 
