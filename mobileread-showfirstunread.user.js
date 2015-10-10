@@ -3,7 +3,7 @@
 // @namespace  http://www.fmbv.nu/
 // @version    0.1
 // @description  mobileread.com forum - goes to first unread post.
-// @match      http*://*mobileread.com/forums*
+// @match      http://*mobileread.com/forums*
 // @copyright  2015, Jan Karjalainen
 // @grant       none
 // ==/UserScript==
