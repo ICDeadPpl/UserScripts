@@ -90,20 +90,20 @@
 // @description   Automatic redirect for linuxtoday.com articles to full stories
 
 // @namespace     http://userscript.org/
-// @include       http://www.linuxtoday.com/developer/*
-// @include  	  http://www.linuxtoday.com/developer/2*
-// @include  	  http://www.linuxtoday.com/high_performance/*
-// @include  	  http://www.linuxtoday.com/high_performance/2*
-// @include  	  http://www.linuxtoday.com/infrastructure/*
-// @include  	  http://www.linuxtoday.com/infrastructure/2*
-// @include	  http://www.linuxtoday.com/it_management/*
-// @include	  http://www.linuxtoday.com/it_management/2*
-// @include  	  http://www.linuxtoday.com/security/*
-// @include  	  http://www.linuxtoday.com/security/2*
-// @include	  http://www.linuxtoday.com/storage/*
-// @include	  http://www.linuxtoday.com/storage/2*
-// @include	  http://www.linuxtoday.com/news_story.php3*
-// @include   http://www.linuxtoday.com/upload/*
+// @include       http*://www.linuxtoday.com/developer/*
+// @include  	  http*://www.linuxtoday.com/developer/2*
+// @include  	  http*://www.linuxtoday.com/high_performance/*
+// @include  	  http*://www.linuxtoday.com/high_performance/2*
+// @include  	  http*://www.linuxtoday.com/infrastructure/*
+// @include  	  http*://www.linuxtoday.com/infrastructure/2*
+// @include	  http*://www.linuxtoday.com/it_management/*
+// @include	  http*://www.linuxtoday.com/it_management/2*
+// @include  	  http*://www.linuxtoday.com/security/*
+// @include  	  http*://www.linuxtoday.com/security/2*
+// @include	  http*://www.linuxtoday.com/storage/*
+// @include	  http*://www.linuxtoday.com/storage/2*
+// @include	  http*://www.linuxtoday.com/news_story.php3*
+// @include   http*://www.linuxtoday.com/upload/*
 // @grant       none
 // @version     1.1
 // ==/UserScript==
