@@ -3,7 +3,7 @@
 // @namespace  http://www.fmbv.nu/
 // @version    0.1
 // @description  Swedroid forum - goes to first unread post.
-// @match      http://www.swedroid.se/forum/*
+// @match      http*://www.swedroid.se/forum/*
 // @grant       none
 // @copyright  2013, Jan Karjalainen
 // ==/UserScript==
