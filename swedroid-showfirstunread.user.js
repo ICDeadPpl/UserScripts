@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name       Swedroid forum - goto first unread redirect
 // @namespace  http://www.fmbv.nu/
-// @version    0.1
+// @version    0.2
 // @description  Swedroid forum - goes to first unread post.
-// @match      http*://www.swedroid.se/forum/*
+// @match      http://www.swedroid.se/forum/*
+// @match      https://www.swedroid.se/forum/*
 // @grant       none
 // @copyright  2013, Jan Karjalainen
 // ==/UserScript==
