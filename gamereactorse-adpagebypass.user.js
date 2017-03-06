@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name       Gamereactor.se - ad page bypass
 // @namespace  http://www.fmbv.nu/
-// @version    0.1
+// @version    0.2
 // @description  Gamereactor.se - Bypass ad pages.
-// @match      http*://www.gamereactor.se/*
+// @match      http://www.gamereactor.se/*
+// @match      https://www.gamereactor.se/*
 // @grant       none
 // @copyright  2013, Jan Karjalainen
 // ==/UserScript==
