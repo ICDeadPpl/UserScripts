@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name       smallnetbuilder.com forum - goto first unread redirect
 // @namespace  http://www.fmbv.nu/
-// @version    0.1
+// @version    0.2
 // @description  smallnetbuilder.com forum - goes to first unread post.
-// @match      http*://forums.smallnetbuilder.com/*
+// @match      http://forums.smallnetbuilder.com/*
+// @match      https://forums.smallnetbuilder.com/*
 // @copyright  2013, Jan Karjalainen
 // @grant       none
 // ==/UserScript==
