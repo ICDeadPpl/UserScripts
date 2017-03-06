@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name       mobileread.com forum - goto first unread redirect
 // @namespace  http://www.fmbv.nu/
-// @version    0.1
+// @version    0.2
 // @description  mobileread.com forum - goes to first unread post.
-// @match      http*://www.mobileread.com/forums*
+// @match      http://www.mobileread.com/forums*
+// @match      https://www.mobileread.com/forums*
 // @copyright  2015, Jan Karjalainen
 // @grant       none
 // ==/UserScript==
