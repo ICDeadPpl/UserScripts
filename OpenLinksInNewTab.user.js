@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        ALL THE LINKS in new windows
+// @name        Open links in new windows
 // @namespace   http://www.bitshark.se/
 // @include     https://forums.unraid.net/discover/*
 // @include     https://www.snbforums.com/watched/threads
