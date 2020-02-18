@@ -2,8 +2,9 @@
 // @name        ALL THE LINKS in new windows
 // @namespace   http://www.bitshark.se/
 // @include     https://forums.unraid.net/discover/*
+// @include     hhttps://www.snbforums.com/watched/threads
 // @version     1
-// @description This will force all the links at Unraid forums "Content I Follow" page to open in a new tab, even internal links.
+// @description This will force all the links to open in a new tab, even internal links.
 // ==/UserScript==
 
 (function(){
