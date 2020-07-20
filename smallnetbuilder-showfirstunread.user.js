@@ -3,8 +3,8 @@
 // @namespace  http://www.fmbv.nu/
 // @version    0.2
 // @description  smallnetbuilder.com forum - goes to first unread post.
-// @match      http://forums.smallnetbuilder.com/*
-// @match      https://forums.smallnetbuilder.com/*
+// @match      http://www.snbforums.com/*
+// @match      https://www.snbforums.com/*
 // @copyright  2013, Jan Karjalainen
 // @grant       none
 // ==/UserScript==
@@ -14,7 +14,7 @@
 
     try {
 
-        textLink="View First Unread";
+        textLink="Jump to new";
 
         nPage=-1;
         
@@ -29,8 +29,8 @@
 
     catch (e) {
 
-        GM_log( 'smallnetbuilder.com forum - goto first unread Redirect - script exception: ' + e );
-        alert ( 'smallnetbuilder.com - goto first unread Redirect - script exception: ' + e );
+        GM_log( 'www.snbforums.com forum - goto first unread Redirect - script exception: ' + e );
+        alert ( 'www.snbforums.com - goto first unread Redirect - script exception: ' + e );
 
     }
 
