@@ -14,7 +14,7 @@
 
     try {
 
-        var textLink="Jump to new";
+        var textLink="View First Unread";
 
         var nPage=-1;
 
