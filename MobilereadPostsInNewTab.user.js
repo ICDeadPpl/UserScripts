@@ -5,6 +5,7 @@
 // @description  Makes all links to forum posts open in a new tab
 // @description  Edit the "match" address below for your needs.
 // @match      https://www.mobileread.com/forums/subscription.php
+// @match      https://www.mobileread.com/forums/forumdisplay.php*
 // @grant none
 // @copyright  2020+ Jan Karjalainen
 // ==/UserScript==
