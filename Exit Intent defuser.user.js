@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Exit Intent defuser
 // @namespace    https://blog.silocitylabs.com/post/author/maave/
-// @version      0.15
+// @version      0.16
 // @description  block "exit intent" popups by blocking ALL mouseleave events
 // @updateURL    https://openuserjs.org/meta/Maave/Exit_Intent_defuser.meta.js
 // @copyright    2018, Maave (https://blog.silocitylabs.com/post/author/maave/)
@@ -40,6 +40,7 @@
 // @exclude      https://twitter.com*
 // @exclude      https://*.autodesk.com/*
 // @exclude      https://stackoverflow.com/*
+// @exclude      https://forums.unraid.net/*
 // @grant        none
 // ==/UserScript==
 
