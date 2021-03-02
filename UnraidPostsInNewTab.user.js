@@ -9,7 +9,7 @@
 // @copyright  2020+ Jan Karjalainen
 // ==/UserScript==
 
-var pattern = new RegExp('/topic/|/prereleases/');
+var pattern = new RegExp('/topic/|/prereleases/|stable-releases/');
 var anchors = document.getElementsByTagName('a');
 for (var i = 0; i < anchors.length; i++) {
     var a = anchors[i];
