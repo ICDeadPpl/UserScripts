@@ -106,7 +106,7 @@
 // @include       http*://www.linuxtoday.com/upload/*
 // @include       https://www.linuxtoday.com/news/*
 // @grant       none
-// @version     1.1
+// @version     1.2
 // ==/UserScript==
 
 
