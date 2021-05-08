@@ -103,7 +103,8 @@
 // @include	  http*://www.linuxtoday.com/storage/*
 // @include	  http*://www.linuxtoday.com/storage/2*
 // @include	  http*://www.linuxtoday.com/news_story.php3*
-// @include   http*://www.linuxtoday.com/upload/*
+// @include       http*://www.linuxtoday.com/upload/*
+// @include       https://www.linuxtoday.com/news/*
 // @grant       none
 // @version     1.1
 // ==/UserScript==
