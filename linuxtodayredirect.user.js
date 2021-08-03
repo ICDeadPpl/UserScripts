@@ -4,7 +4,7 @@
  * Based on the Linux.org news "Read full article" redirect by Jaap Haitsma (jaap at haitsma dot org) see: http://userscripts.org/scripts/show/5350
  *
 
- * version 0.2
+ * version 0.3
 
  * 2010-01-24
 
