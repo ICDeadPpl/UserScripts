@@ -16,5 +16,6 @@ for (var i = 0; i < anchors.length; i++) {
     var a = anchors[i];
     if (pattern.test(a.href)){
         a.setAttribute("target", "_blank");
+        a.href += "&goto=newpost";
     }
 }
