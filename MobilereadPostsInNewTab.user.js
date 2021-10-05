@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       Mobileread Forum posts in new tab
 // @namespace  https://www.bitshark.se
-// @version    0.4
+// @version    0.5
 // @description  Makes all links to forum posts open in a new tab
 // @description  Edit the "match" address below for your needs.
 // @match      https://www.mobileread.com/forums/subscription.php
