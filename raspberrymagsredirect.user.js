@@ -36,8 +36,8 @@ var nPage = '';
             }
         }
     } catch (err) {
-        GM_log('linuxtoday.com News "Complete Story" Redirect - script exception: ' + err);
-        alert('linuxtoday.com News "Complete Story" Redirect - script exception: ' + err);
+        GM_log('raspberrypi.com magazine download redirect - script exception: ' + err);
+        alert('raspberrypi.com magazine download redirect - script exception: ' + err);
     }
 })();
 
