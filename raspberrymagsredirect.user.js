@@ -14,9 +14,13 @@
 // @name          raspberrypi.com magazine download redirect
 // @description   Automatic redirect for raspberrypi.com magazine downloads
 // @namespace     http://userscript.org/
-// @include       http*://*.raspberrypi.com/issues/*
+// @include       http*://custompc.raspberrypi.com/issues/*
+// @include       http*://hackspace.raspberrypi.com/issues/*
+// @include       http*://helloworld.raspberrypi.org/issues/*
+// @include       http*://magpi.raspberrypi.com/issues/*
+// @include       http*://wireframe.raspberrypi.com/issues/*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // ==/UserScript==
 
 var i = 0;
