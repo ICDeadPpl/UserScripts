@@ -1,7 +1,7 @@
 /// ==UserScript==
 // @name       GP.se posts in new tab
 // @namespace  https://www.bitshark.se
-// @version    0.1
+// @version    0.5
 // @description  Makes all links open in a new tab
 // @match      https://www.gp.se/nyheter/*
 // @match      https://www.gp.se/sport/*
