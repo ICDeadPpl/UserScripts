@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name       Unraid Forum posts in new tab
+// @name       4get result links in new tab
 // @namespace  https://www.bitshark.se
-// @version    0.1
-// @description  Makes all links to forum posts open in a new tab
+// @version    0.2
+// @description  Makes all links open in a new tab
 // @description  Edit the "match" address below for your needs.
 // @match      https://4get.bitshark.se/web*
 // @grant none
