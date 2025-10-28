@@ -3,7 +3,7 @@
 // @namespace  https://www.bitshark.se
 // @version    0.6
 // @description  Makes all links open in a new tab
-// @match      https://www.gp.se/*
+// @match      https://www.gp.se/
 // @grant none
 // @copyright  2024+ Jan Karjalainen
 // ==/UserScript==
