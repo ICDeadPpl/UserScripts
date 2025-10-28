@@ -1,7 +1,7 @@
 /// ==UserScript==
 // @name       GP.se posts in new tab
 // @namespace  https://www.bitshark.se
-// @version    0.6
+// @version    0.7
 // @description  Makes all links open in a new tab
 // @match      https://www.gp.se/
 // @grant none
