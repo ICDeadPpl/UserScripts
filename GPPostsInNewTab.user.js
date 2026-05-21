@@ -8,8 +8,9 @@
 // @copyright  2024+ Jan Karjalainen
 // ==/UserScript==
 
-var anchors = document.getElementsByTagName('a');
-for (var i = 0; i < anchors.length; i++) {
-    var a = anchors[i];
-        a.setAttribute("target", "_blank");
-}
+document.addEventListener('click', function(e) {
+    var anchor = e.target.closest('a');
+    if (anchor && anchor.href) {
+        anchor.target = '_blank';
+    }
+}, true);
